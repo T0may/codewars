@@ -17,7 +17,7 @@ top_3_words("  //wont won't won't")
 # => ["won't", "wont"]
  """
 
-# Soltuion 
+# Soltuion
 
 from collections import Counter
 import re
